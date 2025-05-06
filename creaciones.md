@@ -1,1 +1,2 @@
-
+	Mi Proyecto:
+    El monitoreo de la calidad del agua es fundamental para preservar la salud humana y los ecosistemas. La turbidez y el pH son parámetros esenciales que permiten identificar la presencia de contaminantes o condiciones inadecuadas para el consumo humano y la vida acuática. Este proyecto aporta una solución tecnológica accesible y eficiente que puede ser utilizada en contextos educativos, ambientales y de investigación, fomentando una mayor conciencia sobre la importancia del agua limpia
