@@ -7,3 +7,6 @@ El niño fue hasta la puerta de casa. Todo el país que le cupo en la mirada ten
 
 Jorge Eduardo López Alcocer.
 
+
+Diego Mauricio Antonio Silva 
+Propuesta: Una app para mapear árboles frutales urbanos donde los vecinos puedan registrar, localizar y compartir frutas comestibles en su comunidad.
