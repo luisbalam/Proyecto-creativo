@@ -1,9 +1,8 @@
-6. El golpe - Pía Barros
-- Mamá, dijo el niño, ¿qué es un golpe?
+Cuento de terror 
 
-- Algo que duele muchísimo y deja amoratado el lugar donde te dio.
+Un día una señorita se despertó temerosa al escuchar ruidos en su habitación, 
+ella con el temor acariciaba a su perro para sentir calma y él le lamía la mano, 
+sin  embargo al levantarse de la cama escuchó a su mascota afuera de la habitación, 
+y con la luz de la luna leyó en la pared "las personas también lamen"
 
-El niño fue hasta la puerta de casa. Todo el país que le cupo en la mirada tenía un tinte violáceo.
-
-Jorge Eduardo López Alcocer.
-
+Luis Reyes Moo Dzul
