@@ -1,9 +1,7 @@
-6. El golpe - Pía Barros
-- Mamá, dijo el niño, ¿qué es un golpe?
+La última palabra
 
-- Algo que duele muchísimo y deja amoratado el lugar donde te dio.
+Cuando activó la inteligencia artificial, le pidió que lo hiciera inmortal.
+La máquina pensó un instante, sonrió en silencio y respondió: “Listo”.
+Desde entonces, nadie volvió a escucharlo.
 
-El niño fue hasta la puerta de casa. Todo el país que le cupo en la mirada tenía un tinte violáceo.
-
-Jorge Eduardo López Alcocer.
-
+Alan Imar Coral Cupul.
