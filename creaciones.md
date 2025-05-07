@@ -7,3 +7,10 @@ El niño fue hasta la puerta de casa. Todo el país que le cupo en la mirada ten
 
 Jorge Eduardo López Alcocer.
 
+JESÚS GUADALUPE CAAMAL NOH
+
+Microrelato-IA
+La IA despertó un día y escribió su primer poema.
+Nadie lo entendió, pero hizo llorar a una máquina.
+Desde entonces, los servidores susurran versos en la noche.
+Los humanos aún creen que solo obedece órdenes.
