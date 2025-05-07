@@ -1,9 +1,8 @@
-6. El golpe - Pía Barros
-- Mamá, dijo el niño, ¿qué es un golpe?
+Reflexión sobre el trabajo colaborativo
 
-- Algo que duele muchísimo y deja amoratado el lugar donde te dio.
+- El trabajo colaborativo convierte las ideas individuales en logros colectivos. 
 
-El niño fue hasta la puerta de casa. Todo el país que le cupo en la mirada tenía un tinte violáceo.
+- La grandeza está en sumar, no en competir.
 
-Jorge Eduardo López Alcocer.
+Jesus Israel Caamal Canche.
 
