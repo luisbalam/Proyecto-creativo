@@ -7,3 +7,6 @@ El niño fue hasta la puerta de casa. Todo el país que le cupo en la mirada ten
 
 Jorge Eduardo López Alcocer.
 
+UN MICROCUENTO
+BRAULIO POOL DURAN
+
