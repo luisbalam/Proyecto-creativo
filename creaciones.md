@@ -7,3 +7,21 @@ El niño fue hasta la puerta de casa. Todo el país que le cupo en la mirada ten
 
 Jorge Eduardo López Alcocer.
 
+
+=============================================================================================================
+
+# Proyecto: MEMOCARE - Aplicación de Asistencia Cognitiva para Adultos Mayores
+
+**Resumen:**  
+MEMOCARE es una aplicación móvil diseñada para apoyar a adultos mayores con dificultades de memoria o deterioro cognitivo leve. Utiliza recordatorios personalizados, reconocimiento de voz y conexión con familiares para ayudarles a mantener su independencia y bienestar emocional.
+
+**Características principales:**
+- Recordatorios de medicamentos, citas y tareas diarias.
+- Reconocimiento de voz para navegación sencilla.
+- Conexión con familiares o cuidadores para seguimiento remoto.
+- Juegos cognitivos adaptativos para ejercitar la memoria.
+- Interfaz intuitiva con texto grande y navegación por voz.
+
+### Elaborado por: Eduardo Alexander Estrella Escobedo
+
+=============================================================================================================
