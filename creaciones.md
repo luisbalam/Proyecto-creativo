@@ -14,4 +14,5 @@ El América estaba a un paso de hacer historia. Después de tres títulos consec
 
 El partido de vuelta en el Estadio Azulcrema (Cd. de Los Deportes) estaba repleto. La afición, vestida de amarillo y azul, alentaba con pasión, recordando las glorias recientes: la solidez defensiva, los goles en momentos clave y esa mística que hacía al América imparable en finales.
 
+Tadeo Alonso Poot Pérez
 
