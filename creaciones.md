@@ -8,7 +8,7 @@ El niño fue hasta la puerta de casa. Todo el país que le cupo en la mirada ten
 Jorge Eduardo López Alcocer.
 
 
-=============================================================================================================
+============================================================================================================
 
 # Proyecto: MEMOCARE - Aplicación de Asistencia Cognitiva para Adultos Mayores
 
@@ -24,4 +24,4 @@ MEMOCARE es una aplicación móvil diseñada para apoyar a adultos mayores con d
 
 ### Elaborado por: Eduardo Alexander Estrella Escobedo
 
-=============================================================================================================
+============================================================================================================
